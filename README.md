@@ -111,15 +111,7 @@ Le module d'analyse d'images et de validation est implémenté nativement en Jav
 
 ---
 
-## 👥 5. Comptes de Démonstration (1-Clic sur la page d'accueil)
 
-| Rôle | Email | Mot de Passe | CIN / Particularité |
-| :--- | :--- | :--- | :--- |
-| **Citoyen (Démonstration)** | `citizen@mo9ata3a.ma` | `citizenPassword123!` | CIN: `BK789456` (Yassine El Amrani) |
-| **Agent / Manager Mo9ata3a** | `manager@mo9ata3a.ma` | `managerPassword123!` | Division de l'État Civil |
-| **Administrateur Système** | `admin@mo9ata3a.ma` | `adminPassword123!` | Gestion catalogue, agents & audit |
-
-*Astuce* : Sur la page de connexion ou la page d'accueil, des boutons de pré-remplissage 1-clic permettent de se connecter instantanément à chaque profil.
 
 ---
 
