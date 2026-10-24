@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # Mo9ata3a Smart (المقاطعة الذكية)
 ### Plateforme Numérique Intelligente des Services Administratifs Communaux
 **Architecture MERN Stack (MongoDB, Express.js, React, Node.js) • Module IA & Reconnaissance Optique CIN**
